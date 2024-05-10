@@ -5,7 +5,9 @@
 - created a github repository
 - Added Routing
 - Header
-- Login Form
+- Login Page (SignIn & SignUp Forms)
+- Form Validation
+- useRef hook
 
 # Features
 
