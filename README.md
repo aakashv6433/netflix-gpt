@@ -8,6 +8,13 @@
 - Login Page (SignIn & SignUp Forms)
 - Form Validation
 - useRef hook
+- Firebase setup
+- deploying our app to production
+- Implemented Sign Up User API
+- Implemented Sign In User API
+- created redux store with userSlice
+- implemented sign out
+- update profile api
 
 # Features
 
