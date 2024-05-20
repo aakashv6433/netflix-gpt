@@ -20,6 +20,18 @@
 - always add hard-coded values into a constants file and export it from there
 - Register TMDB account and create an App to get an API Key and API Read Access Token
 - make the TMDB API call to receive the movie list data
+- created custom hooks useNowPlayingMovies and useMovieTrailer
+- created moviSlice
+- updated store with movies data
+- fetched data for trailer video
+- updated store with trailer data
+- embedded the youtube video and make it autoplay and mute
+- Built Secondary Component
+- built movie list
+- built movie card
+- tmdb image cdn url
+- made the browse page look a lot better using tailwind css
+- custom hooks -> usePopularMovies, useTopRatedMovies, useUpcomingMovies
 
 # Features
 
