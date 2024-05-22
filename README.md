@@ -32,6 +32,9 @@
 - tmdb image cdn url
 - made the browse page look a lot better using tailwind css
 - custom hooks -> usePopularMovies, useTopRatedMovies, useUpcomingMovies
+- GPT Search Page
+- GPT Search Bar
+- Multi-Language Feature for out GPT Search Page
 
 # Features
 
