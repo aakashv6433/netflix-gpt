@@ -35,6 +35,13 @@
 - GPT Search Page
 - GPT Search Bar
 - Multi-Language Feature for out GPT Search Page
+- Get OPEN AI API KEY
+- GPT Search API Call
+- fetched gptMovieSuggestions from TMDB
+- Reused Movie List component for gptMovieSuggestions
+- Memoization
+- Added .env file to hide api keys from constants and of course git ignored it
+- made our site slightly responsive especially for mobile screen size
 
 # Features
 
